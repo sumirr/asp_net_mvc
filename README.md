@@ -1,18 +1,20 @@
 # asp_net_mvc
 
+## Requirements
+.NET 8.0
+
 ## Task
 You have been hired by * (choose your own name) Books to develop an online store for them.
 
 The store must meet the following requirements:
 
-- Customers must be able to register and create a profile
-- Customers must be able to view items, details, and search inventory
-- Customers must be able to multiple items to their cart
-- Customers must be able to perform a checkout (mock with no payment for Sprint 1)
-- Each user's cart must be persisted between devices.
-- A customer must be logged in to add an item to their cart.
-- Any unsuccessful login attempts must be logged.
-
+- [x] Customers must be able to register and create a profile
+- [x] Customers must be able to view items, details, and search inventory
+- [ ] Customers must be able to multiple items to their cart
+- [ ] Customers must be able to perform a checkout (mock with no payment for Sprint 1)
+- [ ] Each user's cart must be persisted between devices.
+- [ ] A customer must be logged in to add an item to their cart.
+- [ ] Any unsuccessful login attempts must be logged.
 
 ## MVC
 The architecture will be divided into three primary components:
